@@ -6,7 +6,7 @@ Classic Programmer, GPT free!
 
 
 <div>
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=NunoLima10&hide_title=true&show_icons=true&theme=dark" alt="Nuno Lima" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=Fredamian&hide_title=true&show_icons=true&theme=dark" alt="Nuno Lima" />
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunoLima10&langs_count=10&hide_title=false&layout=compact&theme=dark&count_private=true&hide=css,html" />
  </div>
 
